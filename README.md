@@ -1,4 +1,4 @@
-# Tableau - Jersey Citi Bike System Analytics
+# Tableau - Citi Bike Analytics
 
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
 

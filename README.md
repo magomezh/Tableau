@@ -1,8 +1,9 @@
 # Tableau - Citi Bike Analytics
 
+Analysis of Citi Bike's trip usage data. 
+
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
 
-Analysis of Citi Bike's trip usage data. 
 
 ## Data Source
 * Citi Bike trip history data within Jersey City is available via the Citi Bike official website [Citi Bike Data](https://www.citibikenyc.com/system-data).
